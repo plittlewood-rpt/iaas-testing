@@ -124,7 +124,7 @@ export const ContactsList: FC = () => {
       <PageHeader
         hasMaxWidth
         pageTitle={{
-          children: 'Contacts',
+          children: "Pete's Awesome App",
           hasBoldText: true,
         }}
         buttons={[
