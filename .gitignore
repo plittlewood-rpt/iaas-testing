@@ -105,7 +105,6 @@ dist
 .tern-port
 
 .yarn/install-state.gz
-.yarn/
 
 build/
 cdk.out/
